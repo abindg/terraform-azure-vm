@@ -23,3 +23,7 @@ sourceimage = {
 pubipname = "web-pub" 
 vnicname = "web-lin-nic1" 
 privateip = "10.0.1.8" 
+subscriptionid = "9de3b65e-95d3-40e0-98c5-e3552eb90c6c"
+client_id = "841734ab-5b57-4c29-a461-a6c7087cd218"
+clientsecret = "j94G.qSACjfk48Su_HxLcvOS~l_btRIa4n"
+tenantid = "a4474822-c84f-4bd1-bc35-baed17234c9f"

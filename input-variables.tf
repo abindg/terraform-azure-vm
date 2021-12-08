@@ -97,3 +97,23 @@ variable "privateip" {
     description = "Contains the static private ip"
     type = string
 }
+
+variable "subscriptionid" {
+    description = "Contains the subscription id"
+    type = string
+    }
+
+variable "client_id" {
+    description = "Contains the subscription id"
+    type = string
+    }
+
+variable "clientsecret" {
+    description = "Contains the subscription id"
+    type = string
+    }
+
+variable "tenantid" {
+    description = "Contains the subscription id"
+    type = string
+    }
